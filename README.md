@@ -4,7 +4,7 @@
 ## [01_소개](https://github.com/TaskerJang/MySQL-8.0_study/blob/342b3ed2dcf2c112da6eb9d191f84e9377a10015/01_%EC%86%8C%EA%B0%9C.md) ##
 ## [02_설치와 설정](https://github.com/TaskerJang/MySQL-8.0_study/blob/342b3ed2dcf2c112da6eb9d191f84e9377a10015/02_%EC%84%A4%EC%B9%98%EC%99%80%20%EC%84%A4%EC%A0%95.md) ##
 ## [03_사용자 및 권한](https://github.com/TaskerJang/MySQL-8.0_study/blob/342b3ed2dcf2c112da6eb9d191f84e9377a10015/03_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%B0%8F%20%EA%B6%8C%ED%95%9C.md) ##
-## [04_아키텍처](https://github.com/TaskerJang/MySQL-8.0_study/blob/342b3ed2dcf2c112da6eb9d191f84e9377a10015/04_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md) ##
+## [04_아키텍처](https://github.com/TaskerJang/MySQL-8.0_study/blob/020dc1058fcdc7fb2ddbd201e44a53e3f14443dd/04_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md) ##
 ## [05_트랜잭션과 잠금](https://github.com/TaskerJang/MySQL-8.0_study/blob/342b3ed2dcf2c112da6eb9d191f84e9377a10015/05_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EC%9E%A0%EA%B8%88.md) ##
 ## [06_데이터 압축](https://github.com/TaskerJang/MySQL-8.0_study/blob/342b3ed2dcf2c112da6eb9d191f84e9377a10015/06_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%95%95%EC%B6%95.md) ##
 ## [07_데이터 암호화](https://github.com/TaskerJang/MySQL-8.0_study/blob/342b3ed2dcf2c112da6eb9d191f84e9377a10015/07_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%95%94%ED%98%B8%ED%99%94.md) ##
